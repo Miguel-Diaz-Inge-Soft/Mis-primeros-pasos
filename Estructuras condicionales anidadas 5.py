@@ -1,5 +1,5 @@
-canp=int(input("ingresar cantidad de preguntas realizadas"))
-canb=int(input("ingresar cantidad de preguntas buenas que se contestaron"))
+canp=int(input("ingresar cantidad de preguntas realizadas: "))
+canb=int(input("ingresar cantidad de preguntas buenas que se contestaron: "))
 
 por=(canb/canp)*100
 

@@ -1,4 +1,4 @@
-num=int(input("ingrese numero a analizar "))
+num=int(input("ingrese numero a analizar: "))
 if num>9:
     print("el numero es de dos digitos")
 else:

@@ -1,4 +1,4 @@
-nu=int(input("ingrese numero a analizar"))
+nu=int(input("ingrese numero a analizar: "))
 
 if nu<10:
     print("el numero es de un digito")

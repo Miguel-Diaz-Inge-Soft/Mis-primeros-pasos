@@ -1,4 +1,4 @@
-numero=int(input("ingrese el numero a analizar"))
+numero=int(input("ingrese el numero a analizar: "))
 if numero>0:
     print("el numero es positivo")
 else:

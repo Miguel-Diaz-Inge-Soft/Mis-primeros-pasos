@@ -6,3 +6,4 @@ while opcion=="si":
     opcion=input("¿desea continuar ingresando numeros? escriba si o no: ")
 print("suma de los valores ingresados")
 print(suma)
+

@@ -3,3 +3,4 @@ if nombre[0]== "a" or nombre[0]=="e" or nombre[0]=="i" or nombre[0]=="o" or nomb
     print("el nombre empieza con una vocal")
 else:
     print("el nombre no empieza con vocal")
+

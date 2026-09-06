@@ -8,4 +8,6 @@ while x<len(oracion1):
         voc=voc+1
     x=x+1
 
+
+
 print("cantidad de vocales que hay en la oracion: ",voc)

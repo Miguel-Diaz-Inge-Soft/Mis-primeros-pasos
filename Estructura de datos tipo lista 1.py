@@ -5,5 +5,6 @@ while x<len(lista):
     suma=suma+lista[x]
     x=x+1
 
+
 print("los elementos de la lista: ",lista)
 print("suma de todos los elementos: ",suma)
